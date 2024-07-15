@@ -1,0 +1,16 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "foxundermoon.shell-format",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  },
+  "dockerComposeFile": "docker-compose.yml",
+  "name": "curly-fiesta",
+  "service": "node",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
